@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deeshrestha
-- 👀 I’m interested in new technologies and frameworks. Had contributed in Laravel in the past.
+- 👀 I’m interested in new technologies and frameworks.
 - 🌱 I’m currently learning Python and fullstack technolgoies.
 - 💞️ I’m looking to collaborate on anything I find it intersting
 - 📫 How to reach me ...
